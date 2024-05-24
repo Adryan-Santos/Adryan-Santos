@@ -17,6 +17,6 @@
 <div> 
   <a href="https://instagram.com/adryan_r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:adryanryanssp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/adryan-santos-9b06b2238/?locale=en_US)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/adryan-santos-9b06b2238/?locale=en_US)]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
