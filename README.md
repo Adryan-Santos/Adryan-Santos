@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Adryan Santos.
 - 👨🏻‍💻 Hoje trabalho como Técnico de Suporte
-- 🌱 Estudante de Sistemas de Informação - LFI - 1º Ano
+- 🌱 Estudante de Sistemas de Informação - LFI - 2º Ano
 
 <div style="display: inline_block"><br>
     <img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
